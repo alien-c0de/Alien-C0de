@@ -98,19 +98,8 @@ Automated web security analysis, network scanning, and vulnerability discovery
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alien-c0de&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak" />
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alien-c0de&theme=darkhub&column=3&margin-w=4" alt="GitHub Trophies" />
-</p>
----
-<div align="center">
-### 🏆 Milestone Achievements
 
-| [![](https://github.com/ryo-ma/github-profile-trophy/raw/master/docs/img/gold-trophy.png)](https://github.com/alien-c0de?tab=achievements) | **Pull Shark**<br><sub>Merged significant PRs</sub> | **Arctic Code Vault**<br><sub>Code preserved for 1000 years</sub> | **Quick Draw**<br><sub>Closed issues in record time</sub> |
-| :---: | :---: | :---: | :---: |
-
-</div>
-
----
+  ---
 
 ## 🎓 Certifications & Education
 
