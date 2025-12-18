@@ -1,9 +1,9 @@
 <div align="center">
   
 # 👋 Hello, I'm Santosh
-### aka Alien-C0de
+### a.k.a. Alien-C0de
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Offensive+Security+Engineer;Exploit+%26+Malware+Developer;Red+Team+Tool+Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=8b5cf6&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Offensive+Security+Engineer;Exploit+%26+Malware+Developer;Red+Team+Tool+Creator" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh-susveerkar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alien-c0de)
@@ -80,11 +80,11 @@ Automated web security analysis, network scanning, and vulnerability discovery
 **Offensive Tools:**  
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![HCL AppScan](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![HCL AppScan](https://img.shields.io/badge/HCL_AppScan-002855?style=for-the-badge&logo=hcl&logoColor=white)
 
 **Platforms:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
@@ -99,9 +99,8 @@ Automated web security analysis, network scanning, and vulnerability discovery
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alien-c0de&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)](https://github.com/alien-c0de)
 
 </div>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alien-c0de&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alien-c0de&theme=darkhub&column=7&margin-w=4" alt="github trophies" />
 </div>
 
 ---
@@ -145,8 +144,6 @@ $ cat learning_path.txt
 **Open to:**
 - 🤝 Offensive Security Collaborations
 - 💼 Red Team Engagements
-- 🎤 Speaking Opportunities
-- 📚 Mentorship in Exploit Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh-susveerkar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alien-c0de)
