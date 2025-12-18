@@ -91,12 +91,15 @@ Automated web security analysis, network scanning, and vulnerability discovery
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alien-c0de&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alien-c0de&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alien-c0de&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" alt="Overall Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alien-c0de&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alien-c0de&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)](https://github.com/alien-c0de)
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alien-c0de&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=alien-c0de&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=3" alt="GitHub Trophies" />
+</p>
 
 </div>
 <div align="center">
