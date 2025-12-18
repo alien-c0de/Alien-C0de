@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Santosh
 ### a.k.a. Alien-C0de
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=8b5cf6&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Offensive+Security+Engineer;Exploit+%26+Malware+Developer;Red+Team+Tool+Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&weight=800&size=28&duration=3000&pause=1000&color=8b5cf6&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Offensive+Security+Engineer;Exploit+%26+Malware+Developer;Red+Team+Tool+Creator" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh-susveerkar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alien-c0de)
