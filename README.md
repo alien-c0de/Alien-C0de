@@ -1,9 +1,9 @@
 <div align="center">
   
 # 👋 Hello, I'm Santosh Susveerkar
-### aka Alien-C00de
+### aka Alien-C0de
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Offensive+Security+Engineer;Exploit+%26+Malware+Developer;Red+Team+Tool+Creator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Offensive+Security+Engineer;Exploit+%26+Malware+Developer;Red+Team+Tool+Creator" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santosh-susveerkar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alien-c0de)
@@ -19,26 +19,17 @@ class OffensiveSecurityEngineer:
     def __init__(self):
         self.name = "Santosh Susveerkar"
         self.role = "Offensive Security Engineer"
-        self.location = "Pune, India"
-        self.experience = "20+ years in Software Development | 3+ years in Cyber Security"
+        self.location = "India"
+        self.experience = "20+ years in Software Industry"
         
-    def current_focus(self):
+    def expertise(self):
         return [
-            "🔴 Exploit Development (Buffer Overflows, ROP, Shellcode)",
+            "🔴 Exploit Development",
             "🦠 Malware Analysis & Development",
             "🛠️ Red Team Tooling & Automation",
-            "🔍 Vulnerability Research & Fuzzing",
-            "⚔️ Offensive Security Tool Development"
+            "⚔️ Offensive Security Tool Development",
+            "🔍 Application Security",
         ]
-    
-    def expertise(self):
-        return {
-            "Exploit_Development": ["Binary Exploitation", "Memory Corruption", "Shellcode Engineering"],
-            "Malware_Analysis": ["Static Analysis", "Dynamic Analysis", "Reverse Engineering"],
-            "Programming": ["C", "C++", "Python", "x86/x64 Assembly"],
-            "Red_Team_Tools": ["Custom Payload Development", "AV/EDR Evasion", "C2 Frameworks"],
-            "AppSec": ["SAST/DAST", "Penetration Testing", "Secure Code Review"]
-        }
 ```
 
 ---
@@ -73,17 +64,6 @@ Automated web security analysis, network scanning, and vulnerability discovery
 
 ---
 
-## 💻 Technical Arsenal
-
-### 🔴 Offensive Security
-```text
-Exploit Development    ████████████████████░   95%
-Malware Analysis       ███████████████████░░   90%
-Binary Exploitation    ██████████████████░░░   85%
-Reverse Engineering    ████████████████░░░░░   80%
-Fuzzing & Bug Hunting  ███████████████░░░░░░   75%
-```
-
 ### 🛠️ Languages & Tools
 
 **Low-Level Programming:**  
@@ -100,9 +80,7 @@ Fuzzing & Bug Hunting  ███████████████░░░░
 **Offensive Tools:**  
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-AA0000?style=for-the-badge&logo=ghidra&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-00BFFF?style=for-the-badge&logoColor=white)
+![HCL AppScan](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 **Platforms:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -132,8 +110,6 @@ Fuzzing & Bug Hunting  ███████████████░░░░
 
 - 🎓 **Post Graduate Diploma in Cyber Defense** - Vinoba Bhave University (2024)
 - 🎓 **Bachelor of Engineering in Computer Science** - University of Mumbai (2001)
-- 📜 **ITIL V3 Foundation Certification**
-- 📜 **Certified Blockchain Architect** - Indian Blockchain Institute
 
 ---
 
@@ -144,57 +120,21 @@ offensive_security_engineer
 
 $ cat current_projects.txt
 [*] Developing custom exploit frameworks
-[*] Building AV/EDR evasion techniques
 [*] Creating red team automation tools
 [*] Contributing to offensive security community
-[*] Researching zero-day vulnerabilities
 
 $ cat learning_path.txt
 [+] Advanced malware development techniques
 [+] Kernel exploitation (Windows & Linux)
-[+] Custom C2 framework development
 [+] Hardware hacking & firmware analysis
-[+] Cloud security offensive techniques
+
 ```
-
----
-
-## 🤝 Collaboration Interests
-
-I'm actively looking to collaborate on:
-
-- 🔴 **Offensive Security Tools** - Red team utilities, exploit frameworks, payload generators
-- 🦠 **Malware Analysis Projects** - Reverse engineering, behavioral analysis, detection research
-- 🔍 **Vulnerability Research** - Zero-day hunting, fuzzing frameworks, bug bounty projects
-- 🛠️ **Security Automation** - DevSecOps tools, CI/CD security integration, SAST/DAST
-- 📚 **Open Source Security** - Contributing to tools like Metasploit, Empire, Covenant
-
----
-
-## 💡 Notable Achievements
-
-- 🏆 **Accolade Award** at Atos for exceptional contributions to application security (40% improvement)
-- ⚡ **50% Efficiency Boost** through security automation frameworks
-- 👨‍🏫 **Trained 50+ professionals** on GitHub Advanced Security and offensive techniques
-- 🌟 **Multiple open-source security tools** with active community engagement
-- 🔍 **Vulnerability disclosures** through responsible disclosure programs
 
 ---
 
 ## 📈 Activity Graph
 
 [![Santosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alien-c0de&theme=react-dark&hide_border=true&area=true)](https://github.com/alien-c0de)
-
----
-
-## 📝 Latest Blog Posts (Coming Soon)
-
-<!-- BLOG-POST-LIST:START -->
-- 🔴 Building Your First Buffer Overflow Exploit
-- 🦠 Evading Modern AV/EDR Solutions
-- 🛠️ Red Team Tool Development Best Practices
-- 🔍 Fuzzing for Fun and Profit
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
