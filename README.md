@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Santosh Susveerkar
+# 👋 Hello, I'm Santosh
 ### aka Alien-C0de
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Offensive+Security+Engineer;Exploit+%26+Malware+Developer;Red+Team+Tool+Creator" alt="Typing SVG" />
