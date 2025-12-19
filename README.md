@@ -17,7 +17,7 @@
 ```python
 class OffensiveSecurityEngineer:
     def __init__(self):
-        self.name = "Santosh Susveerkar"
+        self.name = "Santosh"
         self.role = "Offensive Security Engineer"
         self.location = "India"
         self.experience = "20+ years in Software Industry"
