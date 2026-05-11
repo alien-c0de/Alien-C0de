@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff00,100:0d1117&height=200&section=header&text=Santosh%20Susveerkar&fontSize=42&fontColor=00ff00&fontAlignY=38&desc=Agentic%20AI%20Red%20Teamer%20%7C%20LLM%20Security%20Researcher%20%7C%20AI%20Safety%20%26%20Adversarial%20Testing&descSize=15&descAlignY=58&descColor=c9d1d9&animation=fadeIn" />
-
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00FF00&center=true&vCenter=true&width=860&height=60&lines=🤖+Agentic+AI+Red+Teamer+%7C+LLM+Security+Researcher;🔐+Offensive+Security+Specialist+%7C+AI+Safety+%26+Adversarial+Testing;🛡️+Building+the+Future+of+AI+Security+—+One+Exploit+at+a+Time" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Agentic%20AI%20Researcher&fontSize=38&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=LLM%20Security%20Research%20%7C%20AI%20Safety%20%7C%20Adversarial%20AI&descAlignY=60&descSize=18" />
 
 <br/>
 
@@ -12,40 +10,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alien-c0de.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alien-c0de)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alien.c00de@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=alien-c0de&color=00ff00&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/alien-c0de?style=flat-square&color=00ff00&label=Followers)
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ What I Bring to the Table
-
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/IT_Experience-20%2B_Years-00ff00?style=for-the-badge" /><br/>
-<sub>Engineering → Architecture → Security</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/AppSec_Depth-5%2B_Years-00cc00?style=for-the-badge" /><br/>
-<sub>Offensive Security & Vulnerability Research</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/LLM_Cost_Reduction-~90%25-009900?style=for-the-badge" /><br/>
-<sub>Optimized Multi-LLM Integration</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/AI_Agents_Built-6%2B-007700?style=for-the-badge" /><br/>
-<sub>Multi-Agent Security Platforms</sub>
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -56,10 +20,9 @@
 ```python
 class AISecurityResearcher:
     def __init__(self):
-        self.name        = "Santosh Susveerkar"
+        self.name        = "Santosh"
         self.alias       = "Alien-C0de"
         self.title       = "Agentic AI Red Teamer | LLM Security Researcher"
-        self.location    = "Pune, India 🇮🇳"
         self.expertise   = "Offensive Security  ×  Agentic AI Engineering  ×  AI Safety"
 
     def what_i_do(self):
@@ -252,12 +215,12 @@ Automated network scanning, service enumeration, and web security analysis for e
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alien-c0de&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alien-c0de&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alien-c0de&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alien-c0de&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&border_radius=10" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=alien-c0de&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&border_radius=10" />
+  <img width="55%" src="https://streak-stats.demolab.com/?user=alien-c0de&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&border_radius=10" />
 </p>
 
 ---
@@ -324,12 +287,16 @@ Automated network scanning, service enumeration, and web security analysis for e
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20secure%20AI%20is%20to%20think%20like%20the%20adversary%20%E2%80%94%20then%20build%20the%20guardrails.&author=Santosh%20Susveerkar" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20secure%20AI%20is%20to%20think%20like%20the%20adversary%20%E2%80%94%20then%20build%20the%20guardrails." />
 
 <br/>
 
 **⭐ If my work interests you, star a repo — it fuels more research!**
 
-</div>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff00,100:0d1117&height=100&section=footer" />
+![Profile Views](https://komarev.com/ghpvc/?username=alien-c0de&color=00ff00&style=flat-square&label=Profile+Views)
+&nbsp;&nbsp;
+![Followers](https://img.shields.io/github/followers/alien-c0de?style=flat-square&color=00ff00&label=Followers)
+
+</div>
