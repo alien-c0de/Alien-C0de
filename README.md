@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Agentic%20AI%20Researcher&fontSize=38&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=LLM%20Security%20Research%20%7C%20AI%20Safety%20%7C%20Adversarial%20AI&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Agentic%20AI%20Security&fontSize=34&fontColor=00FFCC&animation=fadeIn&fontAlignY=38&desc=LLM%20Red%20Teaming%20%E2%80%A2%20AI%20Security%20Research%20%E2%80%A2%20Offensive%20Security&descAlignY=58&descSize=18" />
 
 <br/>
 
